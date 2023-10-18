@@ -11,7 +11,7 @@ I am a **Software Engineer** with extensive knowledge in the field of software d
 
 Here are some of the programs and tech skills that I master 😏:
 
-![Tech skills](stack-dark.png)
+![Tech skills](stack.png)
 
 ## 🌴In my free time I like:
 
